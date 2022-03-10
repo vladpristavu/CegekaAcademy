@@ -1,0 +1,15 @@
+D:\Teme_Cegeka\tema1\tema1\bin\Debug\net6.0\tema1.exe
+D:\Teme_Cegeka\tema1\tema1\bin\Debug\net6.0\tema1.deps.json
+D:\Teme_Cegeka\tema1\tema1\bin\Debug\net6.0\tema1.runtimeconfig.json
+D:\Teme_Cegeka\tema1\tema1\bin\Debug\net6.0\tema1.dll
+D:\Teme_Cegeka\tema1\tema1\bin\Debug\net6.0\tema1.pdb
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.csproj.AssemblyReference.cache
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.AssemblyInfoInputs.cache
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.AssemblyInfo.cs
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.csproj.CoreCompileInputs.cache
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.dll
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\refint\tema1.dll
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.pdb
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\tema1.genruntimeconfig.cache
+D:\Teme_Cegeka\tema1\tema1\obj\Debug\net6.0\ref\tema1.dll

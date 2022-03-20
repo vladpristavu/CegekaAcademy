@@ -13,7 +13,7 @@ namespace tema1
 
         void Remove<T>(T item) where T : class;
         bool Contains<T>(T item) where T : class;
-
+         
         void Set<T>(T item) where T : class;
         Set<T> Merge(Set<T> other);
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Teme_Cegeka\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj": {}
+    "D:\\Git\\CegekaAcademy\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj": {}
   },
   "projects": {
-    "D:\\Teme_Cegeka\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj": {
+    "D:\\Git\\CegekaAcademy\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Teme_Cegeka\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj",
+        "projectUniqueName": "D:\\Git\\CegekaAcademy\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj",
         "projectName": "tema1",
-        "projectPath": "D:\\Teme_Cegeka\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj",
+        "projectPath": "D:\\Git\\CegekaAcademy\\Tema 01 - C# Advanced\\tema1\\tema1\\tema1.csproj",
         "packagesPath": "C:\\Users\\vladp\\.nuget\\packages\\",
-        "outputPath": "D:\\Teme_Cegeka\\Tema 01 - C# Advanced\\tema1\\tema1\\obj\\",
+        "outputPath": "D:\\Git\\CegekaAcademy\\Tema 01 - C# Advanced\\tema1\\tema1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vladp\\AppData\\Roaming\\NuGet\\NuGet.Config",

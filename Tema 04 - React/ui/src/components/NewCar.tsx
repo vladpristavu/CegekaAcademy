@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { postCar } from "../common/api.service";
 import { CarModel } from "../models/car.model";
+import { useNavigate } from "react-router-dom";
+
 
 function NewCar() {
 
@@ -8,6 +10,8 @@ function NewCar() {
     const [model, setModel] = useState('');
     const [availableStock, setAvailableStock] = useState(0);
     const [unitPrice, setUnitPrice] = useState(0);
+    const [discountPercentage, setDiscountPercentage] = useState(0);
+    const [image, setImage] = useState('');
 
     function handleClick(): void {
         const car:CarModel = {
@@ -15,11 +19,11 @@ function NewCar() {
             model,
             availableStock,
             unitPrice,
-            discountPercentage:0,
-            image:''
-        };
-        postCar(car);
+            discountPercentage,
+            image
+        }
     }
+
 
     return (
         <>
@@ -41,10 +45,20 @@ function NewCar() {
                     <label className="form-label">Price</label>
                     <input type="number" className="form-control" placeholder="Price" onChange={ev => setUnitPrice(Number(ev.target.value))}/>
                 </div>
-                <a href="#" className="btn btn-primary" onClick={() => handleClick()}>Save</a>
+                <div className="mb-3">
+                    <label className="form-label">Discount</label>
+                    <input type="number" className="form-control" placeholder="Discount" onChange={ev => setDiscountPercentage(Number(ev.target.value))}/>
+                </div>
+                <div className="mb-3">
+                    <label className="form-label">Image</label>
+                    <input type="text" className="form-control" placeholder="Image" onChange={ev => setImage(ev.target.value)}/>
+                </div>
+            
+                <a href="/caroffers" className="btn btn-primary" onClick={() => handleClick()}>Save</a>
             </div>
         </>);
 }
+
 
 export default NewCar;
 

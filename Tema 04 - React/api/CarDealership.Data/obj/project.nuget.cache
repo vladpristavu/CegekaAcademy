@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1jdZlSjg+U41EIVabYcctwevedKM8SXaa0tt//EsFtxeJDYYU2rQh9VFSe9frYSu6PpDqW+X6YWtWvIymmzCQ==",
+  "dgSpecHash": "anJxks/XtFwmZwbSCTti+8ZjMQheJQIh20+CdLSYBhtZ2PCPYczjVjjTdd9JbPc6URnOMQXoHnAPFv3lGE2d6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\CarDealership.Data.csproj",
+  "projectFilePath": "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\CarDealership.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vladp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

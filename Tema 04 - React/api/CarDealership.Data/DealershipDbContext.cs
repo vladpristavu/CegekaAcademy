@@ -8,7 +8,7 @@ namespace CarDealership.Data
         public DealershipDbContext(DbContextOptions<DealershipDbContext> options) : base(options)
         {
         }
-
+         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

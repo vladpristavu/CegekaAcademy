@@ -5,5 +5,4 @@ export interface CarModel{
     availableStock:number;
     image:string;
     discountPercentage:number;
-
 }

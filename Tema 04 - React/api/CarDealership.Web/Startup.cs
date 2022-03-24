@@ -55,9 +55,7 @@ namespace CarDealership.Web
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
-
             });
-           
         }
     }
 }

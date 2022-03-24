@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\CarDealership.Data.csproj": {}
+    "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\CarDealership.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\CarDealership.Data.csproj": {
+    "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\CarDealership.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\CarDealership.Data.csproj",
+        "projectUniqueName": "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\CarDealership.Data.csproj",
         "projectName": "CarDealership.Data",
-        "projectPath": "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\CarDealership.Data.csproj",
+        "projectPath": "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\CarDealership.Data.csproj",
         "packagesPath": "C:\\Users\\vladp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladp\\Source\\Repos\\car-dealership\\api\\CarDealership.Data\\obj\\",
+        "outputPath": "D:\\Teme_Cegeka\\car-dealership-main\\api\\CarDealership.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vladp\\AppData\\Roaming\\NuGet\\NuGet.Config",

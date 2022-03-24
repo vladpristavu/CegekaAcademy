@@ -20,7 +20,11 @@ function CarOffers() {
         <div style={{display:'flex', flexWrap:'wrap'}}>
             {cars.map(c => <Car car={c} />)}
         </div>
-    </div>);
+        <a href="/newcar" className="btn btn-primary" >AddCar</a>
+    </div>
+    
+    );
+    
 }
 
 export default CarOffers;

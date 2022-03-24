@@ -11,7 +11,7 @@ function Customers() {
    
     return (<div>
         <h2>Customers</h2>
-        <table className="table">
+        {/* <table className="table">
             <thead>
                 <tr>
                 <th scope="col">#</th>
@@ -39,7 +39,7 @@ function Customers() {
                 <td>@twitter</td>
                 </tr>
             </tbody>
-        </table>   
+        </table>    */}
         </div>  );
 }
 

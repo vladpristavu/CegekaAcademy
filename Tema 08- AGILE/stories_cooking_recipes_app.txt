@@ -1,0 +1,24 @@
+User story examples for a cooking recipe application.
+
+Story 1.
+
+As a logged in user
+i want to be able to search for a recipe
+So that i can see the ingredients needed.
+
+Scenario: User searches in the database with recipes.
+
+GIVEN: I am a logged in user and I am on the Search bar
+WHEN i type the recipe i want to look for and click search
+THEN I receive the found recipes similar for what i wanted.
+
+Story 2.
+As a logged in user
+I want to be able to save a recipe into my favorite recipes
+So that i can find it whenever I need to look for it.
+
+Scenario:User add a recipe to favorite
+
+GIVEN: I am a logged-in user and I see the "add to favorite" button
+WHEN: I add the recipe to the favorite recipes by pressing the button
+THEN: I am notified that the recipe has been added to favorites
